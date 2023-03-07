@@ -2,3 +2,5 @@
 Portal Berita Terupdate
 
 Menambahkan branch baru bernama 'dev'
+
+menambahkan branch frontend
